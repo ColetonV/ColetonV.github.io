@@ -1,9 +1,5 @@
 # Resume
 
----
-
-
----
 
 ## Download Resume
 
