@@ -2,22 +2,22 @@
 
 ## Email
 
-your@email.com
+coletonv13@gmail.com
 
 ---
 
 ## LinkedIn
 
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/coleton-vowles-194999365
 
 ---
 
 ## GitHub
 
-https://github.com/yourusername
+https://github.com/ColetonV
 
 ---
 
 ## Resume
 
-[Download Resume](resume.pdf)
+[Download Resume]()
