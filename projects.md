@@ -3,9 +3,11 @@
 ---
 
 ## Small Business IT Documentation
-[Paper Jam](assets/my-document.pdf)
-[Ink Replacement](assets/my-document.pdf)
-[Router Reset](assets/my-document.pdf)
+[Paper Jam](.pdf)
+
+[Ink Replacement](Technical Documentation - Printer Troubleshooting (Replace Ink).pdf)
+
+[Router Reset](Technical Documentation - Router Restart-1.pdf)
 
 Created professional documentation including:
 
