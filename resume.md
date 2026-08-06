@@ -3,4 +3,4 @@
 
 ## Download Resume
 
-[Resume PDF](resume.pdf)
+[Resume PDF](<Coleton - Resume 2026.pdf>)
