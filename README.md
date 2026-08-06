@@ -1,4 +1,4 @@
-IT Support | CompTIA A+ Certified | Class 5 Drivers License | with my own personal reliable vehicle | Future Career in Cybersecurity 
+IT support | CompTIA A+ certified | Class 5 drivers license with my own personal reliable vehicle | Future Career in cybersecurity 
 
 ## Navigation
 
@@ -10,10 +10,4 @@ IT Support | CompTIA A+ Certified | Class 5 Drivers License | with my own person
 
 # Welcome
 
-This portfolio showcases my hands-on IT Support experience, home lab projects, technical documentation, and continuous learning as I work toward a career in IT Support and eventually Cybersecurity.
-
-- CompTIA A+ Certified
-- Active Directory Home Lab
-- Windows Troubleshooting
-- Technical Documentation
-- Customer Service Experience
+This portfolio showcases my hands-on IT support experience, home lab projects, resume, and continuous learning as I work towards a career in IT support and eventually cybersecurity.
