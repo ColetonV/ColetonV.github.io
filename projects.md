@@ -3,7 +3,7 @@
 ---
 
 ## Small Business IT Documentation
-[Paper Jam](.pdf)
+[Paper Jam](Technical Documentation - Printer Troubleshooting (Paper Jam).pdf)
 
 [Ink Replacement](Technical Documentation - Printer Troubleshooting (Replace Ink).pdf)
 
