@@ -20,4 +20,4 @@ https://github.com/ColetonV
 
 ## Resume
 
-[Download Resume]()
+[Download Resume](<Coleton - Resume 2026.pdf>)
