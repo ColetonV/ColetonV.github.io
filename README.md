@@ -24,7 +24,7 @@ This portfolio showcases my hands-on IT Support experience, home lab projects, t
 
 ## Highlights
 
-- CompTIA A+ (In Progress)
+- CompTIA A+ Certified
 - Active Directory Home Lab
 - Windows Troubleshooting
 - PowerShell Automation
