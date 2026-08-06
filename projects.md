@@ -2,38 +2,10 @@
 
 ---
 
-## Active Directory Home Lab
-
-### Technologies
-
-- Windows Server
-- Active Directory
-- VirtualBox
-
-### Skills Demonstrated
-
-- User Management
-- Group Policy
-- DNS
-- DHCP
-
----
-
-## PowerShell User Creation
-
-### Technologies
-
-- PowerShell
-
-### Skills Demonstrated
-
-- Automation
-- Scripting
-- Active Directory
-
----
-
 ## Small Business IT Documentation
+[Paper Jam](assets/my-document.pdf)
+[Ink Replacement](assets/my-document.pdf)
+[Router Reset](assets/my-document.pdf)
 
 Created professional documentation including:
 
@@ -47,6 +19,8 @@ Created professional documentation including:
 
 ## Future Projects
 
+- Active Directory Home Lab
+- Powershell User Creation
 - Microsoft 365 Administration
 - Intune Lab
 - Ticketing System Lab
