@@ -1,6 +1,5 @@
 # Projects
-
----
+[Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
 
 ## Small Business IT Documentation
 [Paper Jam](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
@@ -9,21 +8,8 @@
 
 [Router Reset](<Technical Documentation - Router Restart-1.pdf>)
 
-Created professional documentation including:
-
-- SOPs
-- Knowledge Base Articles
-- Asset Inventory
-- Password Policy
-- Network Documentation
-
----
 
 ## Future Projects
 
 - Active Directory Home Lab
-- Powershell User Creation
-- Microsoft 365 Administration
-- Intune Lab
-- Ticketing System Lab
-- Azure Fundamentals Lab
+- osTicket Help Desk System Lab
