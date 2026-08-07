@@ -1,4 +1,5 @@
 # About Me
+[Resume](resume.md) | [Projects](projects.md) | [Contact](contact.md)
 
 I'm an aspiring IT Support professional based in Vancouver British Columbia, Canada.
 
