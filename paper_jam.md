@@ -6,3 +6,5 @@
 ![Paper Jam pg2](<Paper Jam2.jpg>)
 ![Paper Jam pg3](<Paper Jam3.jpg>)
 ![Paper Jam pg4](<Paper Jam4.jpg>)
+
+[Paper Jam PDF Download](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
