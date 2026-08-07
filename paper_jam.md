@@ -1,8 +1,6 @@
 # Technical Documentation - Paper Jam
-[Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
-
-## Small Business IT Documentation
-
+[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
+#
 [Paper Jam PDF Download](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
 
 ![Paper Jam pg1](<Paper Jam1.jpg>)
