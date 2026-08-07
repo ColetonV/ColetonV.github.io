@@ -1,4 +1,4 @@
-#Technical Documentation - Paper Jam
+# Technical Documentation - Paper Jam
 [Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
 
 ## Small Business IT Documentation
