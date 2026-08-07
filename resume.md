@@ -1,6 +1,5 @@
 # Resume
 
+![Resume](<ColetonResume26.jpg>)
 
-## Download Resume
-
-[Resume PDF](<Coleton - Resume 2026.pdf>)
+[Resume PDF Download](<Coleton - Resume 2026.pdf>)
