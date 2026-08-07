@@ -1,4 +1,4 @@
-IT support | CompTIA A+ certified | Class 5 drivers license with my own personal reliable vehicle | Future Career in cybersecurity 
+IT support | CompTIA A+ certified | Class 5 drivers license with my own personal reliable vehicle | Future career in cybersecurity 
 
 ## Navigation
 
