@@ -2,11 +2,11 @@
 [Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
 
 ## Small Business IT Documentation
-[Paper Jam](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
+[Paper Jam](paper_jam.md)
 
-[Ink Replacement](<Technical Documentation - Printer Troubleshooting (Replace Ink).pdf>)
+[Ink Replacement](replace_ink.md)
 
-[Router Reset](<Technical Documentation - Router Restart-1.pdf>)
+[Router Restart](router_restart.md)
 
 
 ## Future Projects
