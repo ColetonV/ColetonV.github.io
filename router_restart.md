@@ -1,8 +1,8 @@
-# Technical Documentation - Router Reset
+# Technical Documentation - Router Restart
 [Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 #
-[Router Reset PDF Download](<Technical Documentation - Router Restart-1.pdf>)
+[Router Restart PDF Download](<Technical Documentation - Router Restart-1.pdf>)
 
-![Router Reset pg1](<Router Restart1.jpg>)
-![Router Reset pg2](<Router Restart2.jpg>)
-![Router Reset pg3](<Router Restart3.jpg>)
+![Router Restart pg1](<Router Restart1.jpg>)
+![Router Restart pg2](<Router Restart2.jpg>)
+![Router Restart pg3](<Router Restart3.jpg>)
