@@ -3,6 +3,6 @@
 
 [Router Restart PDF Download](<Technical Documentation - Router Restart-1.pdf>)
 
-![Router Restart pg1](<Router Restart1.jpg>)
+<kbd>![Router Restart pg1](<Router Restart1.jpg>)
 ![Router Restart pg2](<Router Restart2.jpg>)
-![Router Restart pg3](<Router Restart3.jpg>)
+![Router Restart pg3](<Router Restart3.jpg>)</kbd>
