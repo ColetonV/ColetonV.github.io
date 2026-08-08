@@ -1,5 +1,5 @@
 # Technical Documentation - Ink Replacement
-[Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
+[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # 
 [Paper Jam PDF Download](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
 
