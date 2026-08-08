@@ -1,5 +1,5 @@
+[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # Projects
-[Resume](resume.md) | [About Me](about.md) | [Contact](contact.md)
 
 ## Small Business IT Documentation
 [Paper Jam](paper_jam.md)
@@ -7,7 +7,6 @@
 [Ink Replacement](replace_ink.md)
 
 [Router Restart](router_restart.md)
-
 
 ## Future Projects
 
