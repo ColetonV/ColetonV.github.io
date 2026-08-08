@@ -1,13 +1,7 @@
-IT support | CompTIA A+ certified | Class 5 drivers license with my own personal reliable vehicle
-
-## Navigation
-
-- [Resume](resume.md)
-- [Projects](projects.md)
-- [About Me](about.md)
-- [Contact](contact.md)
-
+[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # Welcome
+
+IT support | CompTIA A+ certified | Class 5 drivers license with my own personal reliable vehicle
 
 ![Portrait](Portrait.jpeg)
 
