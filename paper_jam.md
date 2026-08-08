@@ -1,6 +1,6 @@
-# Technical Documentation - Paper Jam
 [Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
-#
+# Technical Documentation - Paper Jam
+
 [Paper Jam PDF Download](<Technical Documentation - Printer Troubleshooting (Paper Jam).pdf>)
 
 ![Paper Jam pg1](<Paper Jam1.jpg>)
