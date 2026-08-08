@@ -1,6 +1,5 @@
+[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # Contact
-
-[Resume](resume.md) | [Projects](projects.md) | [About Me](about.md)
 
 ## Email
 
