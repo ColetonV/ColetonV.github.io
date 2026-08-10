@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 [Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # Technical Documentation - Paper Jam
 
