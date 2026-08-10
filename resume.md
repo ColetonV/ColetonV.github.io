@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="Style.css">
 [Resume](resume.md) | [Projects](projects.md) | [About Me](about.md) | [Contact](contact.md)
 # Resume
 
