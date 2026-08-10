@@ -3,4 +3,4 @@
 
 [Resume PDF Download](<Coleton - Resume 2026.pdf>)
 
-<kbd>![Resume](<ColetonResume26.jpg>)</kbd>
+![Resume](<ColetonResume26.jpg>)
